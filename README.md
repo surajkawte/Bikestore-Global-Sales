@@ -1,2 +1,2 @@
 # Bikestore-Global-Sales
-The project includes building dashboards, conducting sales forecasting, and identifying strategies for improving business operations
+This project focuses on analyzing and optimizing sales data for an e-commerce BikeStore. Using data analysis tools and techniques includeing building dashboards, conducting sales forecasting, and identifying strategies for improving business operations
